@@ -58,5 +58,5 @@ def calculate_mortgage(P, r, n):
 col3.code(code, language='python')
 
 col3.warning('''**You have never seen this before?** 
-                :green[Perfect!] We will learn every part of it.''')
+                :green[Perfect!] We will learn every part of it''')
 
