@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy_financial as npf
 
-st.set_page_config(page_title="Mortgage Calculator", layout="wide")
+st.set_page_config(page_title="Payment Calculator", layout="wide")
 
 st.subheader("Mortgage Payment Calculator")
 
