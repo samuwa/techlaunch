@@ -37,7 +37,6 @@ with col3:
     with st.expander("**Who is this course for**"):
         st.write("- High-school seniors looking to boost their profile for college applications")
         st.write("- College students looking to develop technical skills for internship/job applications")
-        st.write("- High-school seniors looking to boost their profile for college applications")
         st.write("- Students curious about programming in general")
 
 # ==========
