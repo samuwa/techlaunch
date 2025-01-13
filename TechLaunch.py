@@ -10,7 +10,7 @@ st.divider()
 # ==========
 
 st.write("**:blue[Overview]**")
- st.write("Today's top college and job recruiters are looking for leaders who can **identify problems** and **take action**, not only point out where the problems are. Technology gives you the power to be a problem-solver.")
+st.write("Today's top college and job recruiters are looking for leaders who can **identify problems** and **take action**, not only point out where the problems are. Technology gives you the power to be a problem-solver.")
 st.write("This course is designed to get students from **:red[zero]** programming knowledge to intermediate Python scripting.")
 st.write("In addition to gaining technical and critical thinking skills, students will complete this course with a **portfolio of projects** to boost their college and internship/job applications.")
 
