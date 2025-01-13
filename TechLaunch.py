@@ -10,6 +10,7 @@ st.divider()
 # ==========
 
 st.write("**:blue[Overview]**")
+ st.write("Today's top college and job recruiters are looking for leaders who can **identify problems** and **take action**, not only point out where the problems are. Technology gives you the power to be a problem-solver.")
 st.write("This course is designed to get students from **:red[zero]** programming knowledge to intermediate Python scripting.")
 st.write("In addition to gaining technical and critical thinking skills, students will complete this course with a **portfolio of projects** to boost their college and internship/job applications.")
 
@@ -29,8 +30,7 @@ with col1:
         st.write("As a general rule for business and life, having good connections is key for success.")
         st.write('Nevertheless, at some point in your journey you will be required to prove your value. In the words of the same common wisdom: "There is no free lunch".')
         st.write("Having a deep and practical understanding of technology will make you worthy of your network, as someone who isn't just calling to get a problem solved, but rather designing and developing solutions for yourself and others.")
-        st.write("Today's top college and job recruiters are looking for leaders who can identify problems and take action, not only point out where the problems are.")
-        st.write("Technology gives you the power to be a problem-solver.")
+       
 
 
 with col3:
